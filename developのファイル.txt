@@ -1,2 +1,3 @@
 developで新規作成
 developへの変更コミット
+developへの変更コミット（feature2作成後）
